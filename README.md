@@ -1,0 +1,74 @@
+# css animations
+
+## [what css properties can be transitioned](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
+
+## transition
+
+1. transition-property（属性）: all / other property
+2. transition-duration（持续时间） : 1s
+3. transition-timing-function （方法）: how the change in the property will occur
+   1. ease : the change starts slow then go faster then finishes slow
+   2. linear : the change occurs at the same rate
+   3. ease-in : the change starts slow then go faster before the end
+   4. ease-out : the changes starts fast then slows down before the end
+   5. ease-in-out : the change starts slow then go faster then finishes slow
+4. transition-delay（延迟时间）: 3000ms / 3s
+5. 多个属性写在 transition 中，顺序为 property duration timing-function delay，可写多个，以逗号隔开
+
+## transform
+
+1. translate(x: px, y: px) => translate(x, y) => translateX(x: px) + translateY(y: px)
+   1. 水平、垂直方向偏移
+   2. 单位是 px
+   3. 数字可为负，向相反方向偏移
+2. scale(n) => scale(n1, n2) => scaleX(n) + scaleY(n)
+   1. 水平、垂直方向放大或缩小
+   2. 无单位，数字表示是原来大小的 n 倍
+   3. 数字可为负，向相反方向缩放
+3. rotate(n:deg / turn / grad / rad)
+   1. 顺时针旋转 n 度
+   2. 单位是 css 角度单位: deg（360 度）、turn（1 圈）、grad（梯度，一个圆 400 梯度）、rad（弧度，一个圆 2pi 弧度）
+   3. 可为负数，逆时针旋转
+4. skew(n:deg / turn / grad / rad) => skew(n1, n2) => skewX(n) + skewY(n)
+   1. 水平、垂直方向倾斜
+   2. 单位是 css 角度单位: deg（360 度）、turn（1 圈）、grad（梯度，一个圆 400 梯度）、rad（弧度，一个圆 2pi 弧度）
+   3. 可为负数，相反方向倾斜
+
+## transform-origin
+
+1. 接受关键词：top / right / bottom / left / top right / bottom right / top left / bottom left
+2. 接受百分比：(30% , 50%)，x 轴偏移 30%，y 轴偏移 50%，找到中心点
+3. 接受像素值
+
+## perspective (3d 视图)
+
+1. 需要设置一个视图容器大小
+
+   ```css
+   body {
+     perspective: 500px;
+   }
+   ```
+
+2. translateZ -> 向前、向后偏移
+3. rotateZ 沿 z 轴旋转，与 2d rotate 旋转相同
+
+## creative-rotating-button-effect
+
+![markdown picture](./creative-rotating-button-effect/result.gif)
+
+## creative-swipe-button-effect
+
+![markdown picture](./creative-swipe-button-effect/result.gif)
+
+## creative-swipe-text-button-effect
+
+![markdown picture](./creative-swipe-text-button-effect/result.gif)
+
+## creative-button-hover-effect
+
+![markdown picture](./creative-button-hover-effect/result.gif)
+
+## creative-button-stretching-effect
+
+![markdown picture](./creative-button-stretching-effect/result.gif)

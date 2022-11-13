@@ -1,0 +1,29 @@
+:root {
+  --baseColor: #e1332d;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: var(--baseColor);
+  font-family: sans-serif;
+  padding: 40px 80px;
+  font-size: 40px;
+  border: 3px solid var(--baseColor);
+  font-weight: 300;
+  letter-spacing: -2px;
+  transition: all 0.5s;
+  text-transform: uppercase;
+}
+
+a:hover {
+  font-weight: 900;
+  letter-spacing: 10px;
+  border-width: 5px;
+}
