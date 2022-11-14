@@ -1,0 +1,45 @@
+:root {
+  --baseColor: #262626;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  background: var(--baseColor);
+  color: white;
+  font-family: sans-serif;
+  font-size: 40px;
+  border: 3px solid var(--baseColor);
+  padding: 40px 80px;
+  position: relative;
+  transition: all 0.5s;
+  overflow: hidden;
+}
+
+a::before {
+  content: "Hover Me";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: var(--baseColor);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.5s;
+  transform: scale(5);
+  opacity: 0;
+}
+
+a:hover::before {
+  transform: scale(1);
+  opacity: 1;
+}
