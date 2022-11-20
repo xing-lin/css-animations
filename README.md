@@ -116,3 +116,23 @@
 ## creative-border-growing-button-effect
 
 ![markdown picture](./creative-border-growing-button-effect/result.gif)
+
+## creative-first-letter-rotating-button-effect
+
+![markdown picture](./creative-first-letter-rotating-button-effect/result.gif)
+
+## creative-4-borders-growing-button-effect
+
+![markdown picture](./creative-4-borders-growing-button-effect/result.gif)
+
+## creative-wavy-button-effect
+
+![markdown picture](./creative-wavy-button-effect/result.gif)
+
+## creative-2-cuts-button-effect
+
+![markdown picture](./creative-2-cuts-button-effect/result.gif)
+
+## creative-2-parts-skewed-button-effect
+
+![markdown picture](./creative-2-parts-skewed-button-effect/result.gif)
