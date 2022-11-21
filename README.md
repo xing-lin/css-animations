@@ -136,3 +136,23 @@
 ## creative-2-parts-skewed-button-effect
 
 ![markdown picture](./creative-2-parts-skewed-button-effect/result.gif)
+
+## creative-pulsing-button-effect
+
+![markdown picture](./creative-pulsing-button-effect/result.gif)
+
+## diagonal-swipe-button-effect
+
+![markdown picture](./diagonal-swipe-button-effect/result.gif)
+
+## creative-image-effect-1
+
+![markdown picture](./creative-image-effect-1/result.gif)
+
+## creative-image-effect-2
+
+![markdown picture](./creative-image-effect-2/result.gif)
+
+## creative-image-effect-3
+
+![markdown picture](./creative-image-effect-3/result.gif)
