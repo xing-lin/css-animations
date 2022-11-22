@@ -156,3 +156,15 @@
 ## creative-image-effect-3
 
 ![markdown picture](./creative-image-effect-3/result.gif)
+
+## creative-image-effect-4
+
+![markdown picture](./creative-image-effect-4/result.gif)
+
+## creative-image-effect-5
+
+![markdown picture](./creative-image-effect-5/result.gif)
+
+## creative-image-effect-6
+
+![markdown picture](./creative-image-effect-6/result.gif)
