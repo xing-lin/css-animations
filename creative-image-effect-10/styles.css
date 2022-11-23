@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #272727;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+  background-color: #444;
+  border: 10px solid white;
+}
+
+img {
+  object-fit: fill;
+  transition: all 0.5s;
+}
+
+.container:hover img {
+  transform: rotate(720deg) scale(0);
+  opacity: 0;
+}
+
+.container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #006266;
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.container:hover::before {
+  opacity: 1;
+  transition-delay: 0.5s;
+}
+
+.caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: white;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  font-size: 17px;
+  padding: 20px;
+  margin-top: 20px;
+  background: rgba(0, 0, 0, 0.8);
+  transition: all 0.2s;
+  transform: translateY(-500px);
+}
+.container:hover h2 {
+  transform: translateY(0);
+  transition-delay: 0.9s;
+}
+
+p {
+  font-size: 16px;
+  width: 80%;
+  align-self: center;
+  text-align: center;
+  transition: all 0.2s;
+  transform: translateY(-500px);
+}
+
+.container:hover p {
+  transform: translateY(0);
+  transition-delay: 0.7s;
+}
+
+a {
+  text-decoration: none;
+  background: black;
+  color: white;
+  width: 100px;
+  padding: 15px;
+  margin-bottom: 20px;
+  align-self: center;
+  transition: all 0.2s;
+  transform: translateY(-500px);
+}
+
+.container:hover a {
+  transform: translateY(0);
+  transition-delay: 0.5s;
+}

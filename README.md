@@ -168,3 +168,19 @@
 ## creative-image-effect-6
 
 ![markdown picture](./creative-image-effect-6/result.gif)
+
+## creative-image-effect-7
+
+![markdown picture](./creative-image-effect-7/result.gif)
+
+## creative-image-effect-8
+
+![markdown picture](./creative-image-effect-8/result.gif)
+
+## creative-image-effect-9
+
+![markdown picture](./creative-image-effect-9/result.gif)
+
+## creative-image-effect-10
+
+![markdown picture](./creative-image-effect-10/result.gif)
