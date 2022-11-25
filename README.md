@@ -184,3 +184,19 @@
 ## creative-image-effect-10
 
 ![markdown picture](./creative-image-effect-10/result.gif)
+
+## creative-growing-borders-menu-effect
+
+![markdown picture](./creative-growing-borders-menu-effect/result.gif)
+
+## creative-background-and-borders-menu-effect
+
+![markdown picture](./creative-background-and-borders-menu-effect/result.gif)
+
+## creative-splitted-background-menu-effect
+
+![markdown picture](./creative-splitted-background-menu-effect/result.gif)
+
+## creative-2-moving-bottom-borders-menu-effect
+
+![markdown picture](./creative-2-moving-bottom-borders-menu-effect/result.gif)
