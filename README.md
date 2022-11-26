@@ -232,3 +232,11 @@
 ## fill-text-effect-on-hover
 
 ![markdown picture](./fill-text-effect-on-hover/result.gif)
+
+## social-media-icons-hover-effect
+
+![markdown picture](./social-media-icons-hover-effect/result.gif)
+
+## creative-rotated-text-boder-effect
+
+![markdown picture](./creative-rotated-text-boder-effect/result.gif)
