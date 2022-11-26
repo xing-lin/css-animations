@@ -200,3 +200,35 @@
 ## creative-2-moving-bottom-borders-menu-effect
 
 ![markdown picture](./creative-2-moving-bottom-borders-menu-effect/result.gif)
+
+## creative-menu-border-rotation-effect
+
+![markdown picture](./creative-menu-border-rotation-effect/result.gif)
+
+## borders-and-a-background-menu-effect
+
+![markdown picture](./borders-and-a-background-menu-effect/result.gif)
+
+## creative-colorful-layered-menu-effect
+
+![markdown picture](./creative-colorful-layered-menu-effect/result.gif)
+
+## background-translation-card-effect
+
+![markdown picture](./background-translation-card-effect/result.gif)
+
+## creative-double-face-card-effect
+
+![markdown picture](./creative-double-face-card-effect/result.gif)
+
+## creative-layered-card-hover-effect
+
+![markdown picture](./creative-layered-card-hover-effect/result.gif)
+
+## smoky-text-effect-using-css-transforms
+
+![markdown picture](./smoky-text-effect-using-css-transforms/result.gif)
+
+## fill-text-effect-on-hover
+
+![markdown picture](./fill-text-effect-on-hover/result.gif)
