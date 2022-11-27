@@ -276,3 +276,11 @@
 ## using-css-animation-text-background-animated
 
 ![markdown picture](./using-css-animation-text-background-animated/result.gif)
+
+## using-css-animation-bouncing-balls
+
+![markdown picture](./using-css-animation-bouncing-balls/result.gif)
+
+## using-css-animation-rain-effect
+
+![markdown picture](./using-css-animation-rain-effect/result.gif)
