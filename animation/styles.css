@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+div {
+  width: 150px;
+  height: 150px;
+  background: red;
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  /* animation-name: moving; */
+  /* animation-duration: 5s; */
+  /* backwards 会在 0% 的位置上 */
+  /* animation-fill-mode: backwards; */
+  /* backwards + forwards */
+  /* animation-fill-mode: both; */
+  /* animation-delay: 3s; */
+  /* animation-iteration-count: infinite; */
+  /* animation-timing-function: ease; */
+  /* animation-direction: alternate-reverse; */
+  /* delay 需要放在 duration 后面 */
+  animation: moving 3s both 3 ease-in alternate 1s;
+}
+
+@keyframes moving {
+  /* from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translate(1000px);
+  } */
+  0% {
+    transform: translateX(500px);
+  }
+  50% {
+    transform: translateX(1000px);
+  }
+  100% {
+    transform: translate(1000px, 300px);
+  }
+}

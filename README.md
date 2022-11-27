@@ -240,3 +240,39 @@
 ## creative-rotated-text-boder-effect
 
 ![markdown picture](./creative-rotated-text-boder-effect/result.gif)
+
+## using-css-animation-floating-text
+
+![markdown picture](./using-css-animation-floating-text/result.gif)
+
+## using-css-animation-rotating-loading-effect
+
+![markdown picture](./using-css-animation-rotating-loading-effect/result.gif)
+
+## using-css-animation-driving-a-car
+
+![markdown picture](./using-css-animation-driving-a-car/result.gif)
+
+## using-css-animation-text-rotator
+
+![markdown picture](./using-css-animation-text-rotator/result.gif)
+
+## using-css-animation-button-shaking-hover
+
+![markdown picture](./using-css-animation-button-shaking-hover/result.gif)
+
+## using-css-animation-button-animated
+
+![markdown picture](./using-css-animation-button-animated/result.gif)
+
+## using-css-animation-lighting-text
+
+![markdown picture](./using-css-animation-lighting-text/result.gif)
+
+## using-css-animation-heartbeat
+
+![markdown picture](./using-css-animation-heartbeat/result.gif)
+
+## using-css-animation-text-background-animated
+
+![markdown picture](./using-css-animation-text-background-animated/result.gif)

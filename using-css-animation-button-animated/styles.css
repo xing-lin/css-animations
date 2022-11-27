@@ -1,0 +1,46 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #222;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 40px;
+  border: 3px solid white;
+  padding: 40px 80px;
+  position: relative;
+  overflow: hidden;
+}
+
+a::before {
+  content: "";
+  background: #f44336;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 120px;
+  height: 100%;
+  z-index: -1;
+  transform: skew(-15deg);
+  animation: moving 1.2s linear infinite;
+  transition: all 0.5s;
+}
+
+a:hover::before {
+  width: 100%;
+  transform: skew(0deg);
+  animation: none;
+}
+
+@keyframes moving {
+  from {
+    left: -120px;
+  }
+  to {
+    left: 100%;
+  }
+}

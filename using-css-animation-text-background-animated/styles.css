@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #273c75;
+}
+
+h1 {
+  font-size: 200px;
+  text-align: center;
+  text-transform: uppercase;
+  background: url("../images/saiyan.png");
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: textbackground 20s linear infinite;
+}
+
+@keyframes textbackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 100% 100%;
+  }
+}
