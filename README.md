@@ -284,3 +284,15 @@
 ## using-css-animation-rain-effect
 
 ![markdown picture](./using-css-animation-rain-effect/result.gif)
+
+## using-css-animation-icon-hover-effects
+
+![markdown picture](./using-css-animation-icon-hover-effects/result.gif)
+
+## using-css-animation-loading-text
+
+![markdown picture](./using-css-animation-loading-text/result.gif)
+
+## using-css-animation-awesome-pulse-effect
+
+![markdown picture](./using-css-animation-awesome-pulse-effect/result.gif)
