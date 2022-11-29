@@ -296,3 +296,23 @@
 ## using-css-animation-awesome-pulse-effect
 
 ![markdown picture](./using-css-animation-awesome-pulse-effect/result.gif)
+
+## using-css-animation-simple-images-slider-show
+
+![markdown picture](./using-css-animation-simple-images-slider-show/result.gif)
+
+## using-css-animation-newtons-cradle
+
+![markdown picture](./using-css-animation-newtons-cradle/result.gif)
+
+## using-css-animation-nice-loading-effect
+
+![markdown picture](./using-css-animation-nice-loading-effect/result.gif)
+
+## using-css-animation-nice-loading-effect-2
+
+![markdown picture](./using-css-animation-nice-loading-effect-2/result.gif)
+
+## using-css-animation-nice-loading-effect-3
+
+![markdown picture](./using-css-animation-nice-loading-effect-3/result.gif)

@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #272727;
+}
+
+.slider {
+  width: 800px;
+  height: 400px;
+  background: url("../images/beach.jpg") no-repeat center center;
+  background-size: cover;
+  animation: change-bg 10s linear infinite;
+}
+
+@keyframes change-bg {
+  0% {
+    background-image: url("../images/beach.jpg");
+  }
+  20% {
+    background-image: url("../images/beach.jpg");
+  }
+  25% {
+    background-image: url("../images/fox.jpg");
+  }
+  45% {
+    background-image: url("../images/fox.jpg");
+  }
+  50% {
+    background-image: url("../images/nature.jpg");
+  }
+  70% {
+    background-image: url("../images/nature.jpg");
+  }
+  75% {
+    background-image: url("../images/hill.jpg");
+  }
+  100% {
+    background-image: url("../images/hill.jpg");
+  }
+}
