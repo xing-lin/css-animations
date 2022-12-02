@@ -316,3 +316,27 @@
 ## using-css-animation-nice-loading-effect-3
 
 ![markdown picture](./using-css-animation-nice-loading-effect-3/result.gif)
+
+## using-css-animation-nice-loading-effect-4
+
+![markdown picture](./using-css-animation-nice-loading-effect-4/result.gif)
+
+## using-css-animation-nice-loading-effect-5
+
+![markdown picture](./using-css-animation-nice-loading-effect-5/result.gif)
+
+## using-css-animation-nice-loading-effect-6
+
+![markdown picture](./using-css-animation-nice-loading-effect-6/result.gif)
+
+## using-css-animation-nice-loading-effect-7
+
+![markdown picture](./using-css-animation-nice-loading-effect-7/result.gif)
+
+## using-css-animation-nice-loading-effect-8
+
+![markdown picture](./using-css-animation-nice-loading-effect-8/result.gif)
+
+## using-css-animation-background-animated
+
+![markdown picture](./using-css-animation-background-animated/result.gif)
