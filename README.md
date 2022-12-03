@@ -340,3 +340,15 @@
 ## using-css-animation-background-animated
 
 ![markdown picture](./using-css-animation-background-animated/result.gif)
+
+## using-css-animation-hexagon-loader
+
+![markdown picture](./using-css-animation-hexagon-loader/result.gif)
+
+## creative-css-wavy-effect
+
+![markdown picture](./creative-css-wavy-effect/result.gif)
+
+## creative-image-hover-effect
+
+![markdown picture](./creative-image-hover-effect/result.gif)
